@@ -11,4 +11,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Scene_Game.unity
     guid: 728e388dc736ccd44819849fb8554564
+  - enabled: 1
+    path: Assets/Scenes/Scene_Birds.unity
+    guid: f5658fb4333658948a575c63c4d74569
   m_configObjects: {}
